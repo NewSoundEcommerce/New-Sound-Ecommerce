@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Overview
 
 Reaction Platform is a customizable, real-time, reactive commerce solution. This repository is the quickest way to get started with the [Reaction API][10] and its supporting services in a local development environment.
@@ -299,3 +300,6 @@ Copyright © [GNU General Public License v3.0](./LICENSE.md)
 [19]: https://github.com/reactioncommerce/reaction-admin "Reaction Admin"
 [20]: https://github.com/reactioncommerce/reaction-admin/blob/trunk/README.md "Reaction Admin Readme"
 [20]: https://github.com/reactioncommerce/api-migrations "API Migrations"
+=======
+# New-Sound-Ecommerce
+>>>>>>> 83dee9157358ab2413223c02b1665afcb380aa26
